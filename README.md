@@ -3,8 +3,8 @@
 ## Setup
 
 - Ensure node.js is installed
-- Run `npm install` to install dependencies
-- Run `npm test` to run the unit tests
+- Run `yarn install` to install dependencies
+- Run `yarn start` to build the app
 
 ## The task
 
@@ -68,10 +68,6 @@ Relegate:
 [Second lowest scoring team]
 [Lowest scoring team]
 ```
-
-There are some finished unit tests in `src/index.spec.ts` to get you started.
-There is an empty function in `src/index.ts` where you can write the implementation.
-
 ## Constraints
 
 - There could be between 2 and 16 teams in a given division.
