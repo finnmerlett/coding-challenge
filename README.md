@@ -1,6 +1,6 @@
-# Coding challenge
+# Paired programming coding challenge
 
-## Setup
+## Setup (if running on your own machine)
 
 - Ensure node.js is installed
 - Run `yarn install` to install dependencies
@@ -8,7 +8,7 @@
 
 ## The task
 
-**Given a number , _n_, find the _n_ highest and lowest scores in the given array.**
+**Given a number, _n_, find the _n_ highest and lowest scores in the given array.**
 _This task should take you no longer than 15-30 minutes._
 
 The Hockey League is now in season! At the end of the season, the top _n_ teams get promoted to the division above and the bottom _n_ teams get relegated to the division below.
@@ -41,7 +41,7 @@ The division results are provided as an array of teams, as follows:
 
 ```
 
-Write a function that returns a multi-line string showing the teams that will be promoted and relegated using the format below.
+Modify the App component function to take user input of the number of teams to relegate/promote (_n_) and display it in a sensible way on the main page. Below are examples of what different results might look like:
 
 For an _n_ value of 2, the results must be:
 
