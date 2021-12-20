@@ -76,5 +76,4 @@ Relegate:
 
 ## Tips
 
-- We are interested in your implementation of the solution, not the unit test code. Please feel free to add unit tests to help with development though.
 - We are looking for clean code, which is easy to read and free of code smells.
